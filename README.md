@@ -1,5 +1,3 @@
-# malloc-lab
-This is malloc-lab assignment of CMU:15-513: 
 ################################################
 # CS:APP Malloc Implementation from CMU 15213(computer systems a programmer's perspective) 
 Name:  Karthikeyan
